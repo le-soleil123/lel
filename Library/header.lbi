@@ -1,0 +1,55 @@
+<div class="main-header-area">
+<div class="classy-nav-container breakpoint-off">
+    <div class="container">
+		<div class="icon">
+			<a href="../log-in.html" class="sign in"><span class="material-symbols-outlined">person</span></a>
+			<a href="#" class="favorite"><span class="material-symbols-outlined">favorite</span></a>
+			<a href="../shopping-cart.html" class="shopping_bag"><span class="material-symbols-outlined">shopping_bag</span></a>
+		</div>
+		
+                    <!-- Classy Menu -->
+      <nav class="classy-navbar justify-content-between" id="robertoNav">
+
+                        <!-- Logo -->
+                        <a class="nav-brand" href="../index.html"><img src="../images/logo.png" alt="" width="268" height="220"></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+                            <!-- Menu Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+                            <!-- Nav Start -->
+							<div class="classynav">
+                                <ul id="nav">
+                                    <li class="active"><a href="../index.html">首頁</a></li>
+                                    <li><a href="../product-list.html">所有商品</a>
+                                  <ul class="dropdown">
+									<li><a href="#">耳環</a></li>
+										<li><a href="#">耳骨夾</a></li>
+										<li><a href="#">項鍊</a></li>
+										<li><a href="#">戒指</a></li>
+										<li><a href="#">手鍊</a></li>
+										<li><a href="#">髮飾</a></li>
+										<li><a href="#">其他</a></li>
+									</ul>
+									</li>
+									<li><a href="../about.html">關於我們</a></li>
+                                    <li><a href="#">最新消息</a></li>
+									<li><a href="#">聯絡我們</a></li>
+								</ul>
+							</div>
+
+                            <!-- Nav End -->
+                    
+                		</div>
+		  
+	</nav>
+	</div>
+</div>
+	</div>
